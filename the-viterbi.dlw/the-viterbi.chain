@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1681
+slug  : the-viterbi
+seal  : cd93ce4de54a45a8a9289d923f397b1a36a0752c5b02f7f2fd7a655fb999cebb
+prev  : 42c58011c4ab8554e46cf883c409776ed5ab749a313cf1166960e86db57c7c65
+link  : 4d482e0ffe7ef7dd88e58830abf7f27d984f45b37b34afeb7375b0df3a8fdfca
+head  : 4d482e0ffe7ef7dd88e58830abf7f27d984f45b37b34afeb7375b0df3a8fdfca
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
